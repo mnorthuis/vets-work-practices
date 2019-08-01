@@ -1,4 +1,4 @@
-# Information Architecture - IN PROGRESS - DO NOT USE YET
+# Information Architecture
 
 * **This document applies only to External Contractors.**
 
